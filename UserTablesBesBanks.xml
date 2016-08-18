@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- This file contains the definition of custom tables.                                          -->
+<!-- For each custom table the following structure must be used:                                  -->
+<!--                                                                                              -->
+<!-- <table>                                                                                      -->
+<!-- <name>tablename, mandatory</name>                                                            -->
+<!-- <query>The SELECT statement used to select data from the central database, mandatory</query> -->
+<!--  <index>The SQL statement used to create an index in the local database, Optional</index>    -->
+<!-- </table>                                                                                     -->
+<!--                                                                                              -->
+<!-- It is possible to create several indexes per table.                                          -->
+
+<user-tables>
+<!-- bes_banks -->
+<table>
+<name>bes_banks</name>
+<query>SELECT * FROM bes_banks</query>
+</table>
+</user-tables>

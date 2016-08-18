@@ -1,0 +1,61 @@
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\Plugin.MetodosDePagoChile.Admin.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\Plugin.MetodosDePagoChile.Admin.pdb
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Admin.Components.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Admin.StandardForms.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.DbHelper.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Debug.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Translation.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Utilities.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.FrontEnd.DataClasses.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Admin.Server.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.FrontEnd.SharedClasses.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.SharedLogic.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Compression.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.RemotingHelper.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.WCFHelper.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.FrontEnd.UserInterface.Controls.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.FrontEnd.UserInterface.Interfaces.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.FrontEnd.UserInterface.WPF.Controls.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.FrontEnd.Server.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Update.Components.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.FrontEnd.DeviceManager.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Messaging.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.GraphicsHelper.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Admin.StandardForms.XmlSerializers.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\obj\Debug\Plugin.MetodosDePagoChile.Admin.csprojResolveAssemblyReference.cache
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\obj\Debug\Plugin.MetodosDePagoChile.Admin.ViewFormBanks.resources
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\obj\Debug\Plugin.MetodosDePagoChile.Admin.csproj.GenerateResource.Cache
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\obj\Debug\Plugin.MetodosDePagoChile.Admin.dll
+C:\Users\Dilarreta\AppData\Local\Temporary Projects\Plugin.MetodosDePagoChile.Admin\obj\Debug\Plugin.MetodosDePagoChile.Admin.pdb
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\Plugin.MetodosDePagoChile.Admin.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\Plugin.MetodosDePagoChile.Admin.pdb
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Admin.Components.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Admin.StandardForms.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.DbHelper.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Debug.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Translation.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Utilities.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.FrontEnd.DataClasses.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Admin.Server.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.FrontEnd.SharedClasses.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.SharedLogic.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Compression.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.RemotingHelper.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.WCFHelper.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.FrontEnd.UserInterface.Controls.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.FrontEnd.UserInterface.Interfaces.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.FrontEnd.UserInterface.WPF.Controls.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.FrontEnd.Server.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Update.Components.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.FrontEnd.DeviceManager.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Messaging.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.GraphicsHelper.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\bin\Debug\TCPOS.Admin.StandardForms.XmlSerializers.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\obj\Debug\Plugin.MetodosDePagoChile.Admin.ViewFormBanks.resources
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\obj\Debug\Plugin.MetodosDePagoChile.Admin.csproj.GenerateResource.Cache
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\obj\Debug\Plugin.MetodosDePagoChile.Admin.dll
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\obj\Debug\Plugin.MetodosDePagoChile.Admin.pdb
+C:\Users\Dilarreta\documents\visual studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\obj\Debug\Plugin.MetodosDePagoChile.Admin.InjectTabTransbankTillsForm.resources
+C:\Users\Dilarreta\Documents\Visual Studio 2010\Projects\Plugin.MetodosDePagoChile.Admin\Plugin.MetodosDePagoChile.Admin\obj\Debug\Plugin.MetodosDePagoChile.Admin.csprojResolveAssemblyReference.cache

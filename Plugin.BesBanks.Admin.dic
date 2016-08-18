@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PROJECT>
+<DESCRIPTION>BES Banks Plugin Admin dictionary</DESCRIPTION>
+<AUTHOR>Domingo Ilarreta</AUTHOR>
+<PARAMETERS>
+<TARGETS>
+<FILENAME>.\*.cs</FILENAME>
+</TARGETS>
+<LANGUAGES>
+<LANGUAGE code="it" width="337">Italiano</LANGUAGE>
+<LANGUAGE code="de" width="322">Deutsch</LANGUAGE>
+<LANGUAGE code="fr" width="305">Français</LANGUAGE>
+<LANGUAGE code="es" width="0">Español</LANGUAGE>
+<LANGUAGE code="si" width="0">Slovenščina</LANGUAGE>
+<LANGUAGE code="en" width="0">English</LANGUAGE>
+<LANGUAGE code="zh" width="0">简体中文</LANGUAGE>
+<LANGUAGE code="jp" width="0">日本語</LANGUAGE>
+<LANGUAGE code="ru" width="0">русский язык</LANGUAGE>
+<LANGUAGE code="ua" width="0">Українська</LANGUAGE>
+<LANGUAGE code="nl" width="0">Nederlands</LANGUAGE>
+<LANGUAGE code="hr" width="0">Hrvatski</LANGUAGE>
+<LANGUAGE code="pt" width="0">Português</LANGUAGE>
+<LANGUAGE code="pl" width="0">Polski</LANGUAGE>
+<LANGUAGE code="dk" width="0">Dansk</LANGUAGE>
+<LANGUAGE code="se" width="0">Svenska</LANGUAGE>
+<LANGUAGE code="no" width="0">Norsk</LANGUAGE>
+<LANGUAGE code="fi" width="0">Suomi</LANGUAGE>
+<LANGUAGE code="ro" width="0">Română</LANGUAGE>
+<LANGUAGE code="ar" width="0">العربية</LANGUAGE>
+<LANGUAGE code="hi" width="0">हिन्दी</LANGUAGE>
+<LANGUAGE code="th" width="0">ไทย</LANGUAGE>
+<LANGUAGE code="zht" width="0">繁体中文</LANGUAGE>
+<LANGUAGE code="tr" width="0">Türkçe</LANGUAGE>
+<LANGUAGE code="el" width="0">ελληνικά</LANGUAGE>
+</LANGUAGES>
+<COLUMNS_WIDTH>
+<FILENAME_WIDTH>189</FILENAME_WIDTH>
+<NATIVE_WIDTH>287</NATIVE_WIDTH>
+<COMMENT_WIDHT>0</COMMENT_WIDHT>
+</COLUMNS_WIDTH>
+</PARAMETERS>
+<DATA>
+<ROW>
+<FILE>ViewFormBanks.cs</FILE>
+<NATIVE>Banks</NATIVE>
+<TR code="es">Bancos</TR>
+<TR code="en">Banks</TR>
+</ROW>
+<ROW>
+<FILE>ViewFormBanks.cs</FILE>
+<NATIVE>Description</NATIVE>
+<TR code="es">Descripción</TR>
+<TR code="en">Description</TR>
+</ROW>
+<ROW>
+<FILE>ViewFormBanks.cs</FILE>
+<NATIVE>Disabled</NATIVE>
+<TR code="es">Deshabilitar</TR>
+<TR code="en">Disabled</TR>
+</ROW>
+</DATA>
+</PROJECT>
